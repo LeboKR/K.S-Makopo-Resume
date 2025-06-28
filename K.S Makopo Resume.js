@@ -88,7 +88,7 @@ const animateOnScroll = () => {
     function animateTextChange() {
     const titleElement = document.getElementById('dynamic-title');
     const jobTitles = [
-        "Civil Engineer & Construction Manager",
+        "Civil Construction Manager",
         "Quality Control Specialist",
         "Certified Plumbing Professional",
         "Project Surveyor"
